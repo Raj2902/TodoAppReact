@@ -20,3 +20,5 @@
 https://github.com/Raj2902/TodoAppReact.git
 
 # Project deployed link
+
+https://todo-app-react-one-psi.vercel.app/
