@@ -1,6 +1,5 @@
 import { useState } from "react";
 import TodoItem from "./TodoItem";
-import "../app.css";
 
 function TodoList(props) {
   /*using one single object state variable for storing input field values and errors */
